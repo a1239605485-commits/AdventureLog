@@ -1,0 +1,27 @@
+{
+  "pkgId": "lzup.gameplay.treeblessing",
+  "name": "树木祝福 (TreeBlessing)",
+  "author": "lzup",
+  "version": "1.0.0-test",
+  "versionCode": 2026082501,
+  "description": "加快普通树与棕榈树的生长，并让摇树时的原版随机掉落判定必定成功。",
+  "introduce": "一个合并模组：树木生长判定更容易成功；敲击并触发摇树时必定从原版树木掉落池产生结果。不会替换原版掉落池，也不会影响摇树以外的随机事件。",
+  "features": ["MECHANICS_CHANGE", "ASSISTANCE"],
+  "sizeCategory": "TINY",
+  "targetGameVersion": "1.4.5.6",
+  "minGameVersion": "1.4.4.0",
+  "maxGameVersion": "1.4.5.6",
+  "support": {
+    "android": {"arm64": true, "arm": false, "x64": false, "x86": false},
+    "windows": {"arm64": false, "arm": false, "x64": false, "x86": false},
+    "linux": {"arm64": false, "arm": false, "x64": false, "x86": false},
+    "mac": {"arm64": false, "arm": false, "x64": false, "x86": false},
+    "ios": {"arm64": false, "arm": false, "x64": false, "x86": false}
+  },
+  "dependence": [],
+  "conflicts": [],
+  "stableVerified": false,
+  "experimental": true,
+  "deprecated": false,
+  "hasExtendedContent": false
+}

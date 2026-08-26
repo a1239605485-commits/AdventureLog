@@ -1,0 +1,53 @@
+{
+  "pkgId": "eternal.future.seeker",
+  "name": "追踪者(Seeker)",
+  "author": "eternalfuture-e38299",
+  "version": "1.2.0",
+  "versionCode": 20260606,
+  "detailsURL": "https://github.com/eternalfuture-e38299/Terraria-KernelLoader-Mods/tree/main/Seeker",
+  "description": "Your projectiles are now equipped with BeiDou satellite navigation.",
+  "introduce": "已为你的弹幕安装北斗卫星导航",
+  "features": ["ASSISTANCE"],
+  "sizeCategory": "TINY",
+  "targetGameVersion": "1.4.5.6",
+  "minGameVersion": "1.4.4.0",
+  "maxGameVersion": "1.4.5.6",
+  "support": {
+    "android": {
+      "arm64": true,
+      "arm": true,
+      "x64": false,
+      "x86": false
+    },
+    "windows": {
+      "arm64": false,
+      "arm": false,
+      "x64": false,
+      "x86": false
+    },
+    "linux": {
+      "arm64": false,
+      "arm": false,
+      "x64": false,
+      "x86": false
+    },
+    "mac": {
+      "arm64": false,
+      "arm": false,
+      "x64": false,
+      "x86": false
+    },
+    "ios": {
+      "arm64": false,
+      "arm": false,
+      "x64": false,
+      "x86": false
+    }
+  },
+  "dependence": [],
+  "conflicts": [],
+  "stableVerified": true,
+  "experimental": false,
+  "deprecated": false,
+  "hasExtendedContent": false
+}
