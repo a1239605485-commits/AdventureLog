@@ -1,0 +1,53 @@
+{
+  "pkgId": "eternal.future.instantrespawn",
+  "name": "InstantRespawn(快速重生)",
+  "author": "eternalfuture-e38299",
+  "version": "1.0.0",
+  "versionCode": 20260606,
+  "detailsURL": "https://github.com/eternalfuture-e38299/Terraria-KernelLoader-Mods/tree/main/InstantRespawn",
+  "description": "Respawn immediately after death without waiting",
+  "introduce": "「InstantRespawn」是一款实用的Terraria模组，主要功能是让玩家在死亡后能够立即复活，无需等待倒计时结束。\n\n主要特点：\n- 死亡后瞬间复活，节省等待时间\n- 保持游戏原有平衡性，不修改其他游戏机制\n- 特别适合特别菜的玩家和测试场景使用\n\n注意：在PvP模式中使用可能会影响游戏公平性。",
+  "features": ["ASSISTANCE"],
+  "sizeCategory": "TINY",
+  "targetGameVersion": "1.4.5.6",
+  "minGameVersion": "1.4.4.0",
+  "maxGameVersion": "1.4.5.6",
+  "support": {
+    "android": {
+      "arm64": true,
+      "arm": true,
+      "x64": false,
+      "x86": false
+    },
+    "windows": {
+      "arm64": false,
+      "arm": false,
+      "x64": true,
+      "x86": true
+    },
+    "linux": {
+      "arm64": false,
+      "arm": false,
+      "x64": true,
+      "x86": true
+    },
+    "mac": {
+      "arm64": false,
+      "arm": false,
+      "x64": false,
+      "x86": false
+    },
+    "ios": {
+      "arm64": false,
+      "arm": false,
+      "x64": false,
+      "x86": false
+    }
+  },
+  "dependence": [],
+  "conflicts": [],
+  "stableVerified": true,
+  "experimental": false,
+  "deprecated": false,
+  "hasExtendedContent": false
+}

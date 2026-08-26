@@ -1,0 +1,27 @@
+{
+  "pkgId": "lzup.gameplay.threespawn",
+  "name": "3倍刷怪 (ThreeSpawn)",
+  "author": "lzup",
+  "version": "1.1.0-test",
+  "versionCode": 2026082601,
+  "description": "将敌怪刷新间隔固定为200，同时存在数量上限固定为15。",
+  "introduce": "基于官方 KernelLoader ABI 重制。稳定保持 NPC.spawnRate=200、NPC.maxSpawns=15；不会重复乘除，不声明虚假的冲突模组；卸载时恢复加载前数值。",
+  "features": ["MECHANICS_CHANGE", "DIFFICULTY_MOD"],
+  "sizeCategory": "TINY",
+  "targetGameVersion": "1.4.5.6",
+  "minGameVersion": "1.4.4.0",
+  "maxGameVersion": "1.4.5.6",
+  "support": {
+    "android": {"arm64": true, "arm": false, "x64": false, "x86": false},
+    "windows": {"arm64": false, "arm": false, "x64": false, "x86": false},
+    "linux": {"arm64": false, "arm": false, "x64": false, "x86": false},
+    "mac": {"arm64": false, "arm": false, "x64": false, "x86": false},
+    "ios": {"arm64": false, "arm": false, "x64": false, "x86": false}
+  },
+  "dependence": [],
+  "conflicts": [],
+  "stableVerified": false,
+  "experimental": true,
+  "deprecated": false,
+  "hasExtendedContent": false
+}
